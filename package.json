@@ -1,0 +1,20 @@
+{
+  "name": "n6rrr-simple-calculator",
+  "version": "1.0.1",
+  "description": "a simple calculator with typescript nodejs and inquirer",
+  "main": "sam.js",
+  "type": "module",
+  "bin": "sam.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/inquirer": "^9.0.7",
+    "D": "^1.0.0",
+    "inquirer": "^9.2.16",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"maha khalid\"",
+  "license": "MIT"
+}
